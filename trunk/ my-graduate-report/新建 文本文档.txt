@@ -1,0 +1,12 @@
+Benefits of Swarm Intelligence Optimization
+
+Derivative-Free Optimization – The search for an optimal solution in swarm intelligence is not based on functional derivatives but on different mechanisms of social interaction between artificial individuals. In this way the chances of being entrapped in local minima are significantly reduced (but not eliminated!).
+他寻找一个最佳方案，群体智能的根据功能的衍生工具，但在不同的人工个人之间的社会互动机制。以这种方式，被截留在局部极小的可能性显着降低（但不消除）。
+Robustness – The population-based ACO and PSO algorithms are more protective towards individual failure. The poor performance of even several members of the swarm is not a danger for the overall performance. The collective behavior compensates the laggards and the optimum solution is found independently of the variations in individual performance.
+鲁棒性 - 以人口为基础的ACO和PSO算法是保护自己的个人失败。表现不佳，甚至几群成员的是不是一个危险的整体表现。集体行为补偿的落后和发现最佳的解决方案是独立于个人表现的变化。
+Flexibility – Probably the biggest benefit from swarm intelligence is its capability to operate in a dynamic environment. The swarm can continuously track even for fast-changing optima. In principle, there is no significant difference in functioning of the algorithm in steady-state or in dynamic mode.  In the case of classical methods, different algorithms and models are required for these two modes.
+灵活性 - 可能是最大的受益群体智能是其在动态环境中的操作能力。群可以连续跟踪瞬息万变的最优解。原则上，有没有显着差异，在稳定状态下，或在动态模式下运作的算法。在经典的方法的情况下，不同的算法和模型所需的这两种模式。
+Easy Marketing and Implementation – The principles of biology-inspired swarm intelligence are easy to communicate to a broad audience of potential users and there is no need for a heavy math or statistical background. In addition, the implementation of both ACO and especially PSO on any software environment is trivial. The tuning parameters are few and easy to understand and adjust. In some cases, implementing PSO can even be transparent for the final user and be a part of the optimization options of a larger project.
+简单的市场营销和实施 - 生物学启发的群体智能的原则是很容易传达给广大观众的潜在用户，没有必要为一个沉重的数学或统计背景。此外，ACO和特别PSO实施的任何软件环境是微不足道的。调整参数少，易于理解和调整。实施PSO在某些情况下，甚至可以是对最终用户透明，是一个大项目的优化选项的一部分。
+Low Total Cost – In summary, the low marketing and implementation cost, as well as potentially low maintenance cost due to the built-in adaptability in changing operating conditions, result in low total-cost-of-ownership. 
+较低的总成本 - 总之，低营销和实施成本，以及潜在的维护成本低，由于内置的适应性改变操作条件，结果在低总成本的所有权。
